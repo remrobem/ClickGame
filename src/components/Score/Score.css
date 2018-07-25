@@ -1,0 +1,18 @@
+.scoreLine {
+    padding: 1em 0;
+    background-color: black;
+    border-radius: 25px;
+    height: 5em;
+    margin: 2em 0;  
+}
+
+.score {
+    font-size: 15px;
+    font-weight: 200;
+    color: #ffff;
+    padding-top: 7px;
+}
+
+code {
+    padding: 0px;
+}

@@ -1,0 +1,17 @@
+.btn-lg {
+  /* cursor: pointer; */
+  /* color: white; */
+  padding: 0.8em 0.8em;
+  margin-top: 1.5em;
+  display: inline-block;
+  text-align: center;
+  /* text-decoration: none; */
+  border: none;
+  /* border-width: 0; */
+  /* outline: none !important; */
+  border-radius: 0 !important;
+}
+
+button {
+  border:none;
+}
