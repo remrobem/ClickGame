@@ -8,6 +8,8 @@ There are 12 images that are rearranged each time you select on image.
 
 The challenge is to remember what images you already selected and not select them again
 
+You can play the game at https://fathomless-waters-77786.herokuapp.com/ or install it locally per the Installation instructions below.
+
 ## Using the Application
 
 1. The application consist of 1 page.
